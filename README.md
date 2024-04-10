@@ -27,4 +27,4 @@
 
 ![alt text](https://github.com/w1dow1306/text-craft/blob/main/assests/image-6.png)
 
-# <span style="color:red"></span>
+# <span style="color:red">This is a prototype for my bigger project</span>
