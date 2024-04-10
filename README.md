@@ -14,6 +14,7 @@
 ![alt text](https://github.com/w1dow1306/text-craft/blob/main/assests/image.png)
 
 
+
 ![alt text](https://github.com/w1dow1306/text-craft/blob/main/assests/image-2.png)
 
 ![alt text](https://github.com/w1dow1306/text-craft/blob/main/assests/image-3.png)
@@ -26,4 +27,4 @@
 
 ![alt text](https://github.com/w1dow1306/text-craft/blob/main/assests/image-6.png)
 
-![alt text](https://github.com/w1dow1306/text-craft/blob/main/assests/image.png)
+# <span style="color:red"></span>
